@@ -1,3 +1,4 @@
+<div class="navigation-logo"><a class="_xdfscp logo" style="width:94px;padding-top:23px;background-image:url(https://static.runkitcdn.com/assets/images/brand/horizontal-logo-full.svg);background-size:94px 23px" href="https://runkit.com">Runkit</a></div>
 <cib-attribution-images serp-slot="none" product="bing"></cib-attribution-images>
 http://localhost/phpmyadmin/index.php
 <!DOCTYPE html>
